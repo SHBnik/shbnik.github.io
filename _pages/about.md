@@ -8,18 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Ph.D. student at the University of California at Riverside. Currently, I'm working with Dr.[Cong Liu](https://intra.ece.ucr.edu/~cong/) on multi-robot reinforcement, learning more focus on hardware and implementation. Before that, I worked on cyber-physical system security with Dr. [Sibin Mohan](https://sibin.github.io/sibin.html).
-<br>
-I did my bachelor's at the University of Tehran on control and robotics under the supervision of Dr. Hadi Moradi.
-
+Meet me - a highly motivated Ph.D. student with a passion for robotics and machine learning, specifically deep reinforcement learning. My enthusiasm for space exploration and space robotics knows no bounds, and I am currently pursuing my Ph.D. at the University of California, Riverside, under the guidance of Dr. [Cong Liu](https://intra.ece.ucr.edu/~cong/) in the Advanced Embedded System Lab (AES). Before that, I had the privilege of working with Dr. [Sibin Mohan](https://sibin.github.io/sibin.html) at Oregon State University. During my bachelor's, I had the opportunity to work with Dr. Hadi Moradi and collaborated on projects involving social robots assisting and screening autistic children. I thrive on hands-on projects and find joy in developing robots to automate various tasks. I am particularly interested in the fusion of robotic control and deep reinforcement learning, and I believe this field holds immense potential for the future.
 
 
 ### CV
-You can download my CV form this [link](/files/shahab_resume.pdf)
-(This could be outdated you can email me for the new one.)
+You can download my CV form this [link](/files/shahab_resume.pdf).
 <br>
-Im still working on my anti-CV (will publish it soon :) need some papers to get rejected!).
+Im still working on my anti-CV (will publish it soon :)).
 
 
 ## NEWS
-* nothing new yet!
+* Two papers titled "PIMbot" and "MIMONet" have been submitted to IROS2023. (March 2023) 
