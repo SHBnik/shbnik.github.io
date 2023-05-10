@@ -10,4 +10,4 @@ author_profile: true
 
 - "MIMONet: Multi-Input Multi-Output On-Device Deep Learning" Zexin Li, Xiaoxi He, Yufei Li, Shahab Nikkhoo, Wei Yang, Lothar Thiele, Cong Liu. Submitted to IROS’2023.
 
-- "An Intelligent Toy Car for Autism Screening using Multi-Modal Features" Bijan Mehralizadeh, Bahar Baradaran, Shahab Nikkhoo, Pegah Soleiman, Hadi Moradi. Submitted to MDPI Sustainability.
+- "A Sensorized Toy Car for Autism Screening Using Multi-Modal Features" Bijan Mehralizadeh, Bahar Baradaran, Shahab Nikkhoo, Pegah Soleiman, Hadi Moradi. Published in <a href="https://www.mdpi.com/2071-1050/15/10/7790">MDPI Sustainability</a>.
