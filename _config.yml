@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shahab Nikkhoo"
   avatar           : "profile.jpg"
-  bio              : "Ph.D student and Research Assistant at UCR"
+  bio              : "M.S. student and Research Assistant at UCR"
   location         : "California, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=_QriftwAAAAJ&hl=en
   email            : shahabnikkhoo@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
